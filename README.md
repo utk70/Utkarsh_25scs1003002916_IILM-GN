@@ -3,7 +3,7 @@
   <p><strong>Combating Urban Heat Islands with Satellite Intelligence & Machine Learning.</strong></p>
 
   [![Project Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge&color=2ea44f)](https://utk70.github.io/Utkarsh_25scs1003002916_IILM-GN/)
-  [![Tech Stack](https://img.shields.io/badge/Tech-Python%20|%20GEE%20|%20Folium-blue?style=for-the-badge)](https://utk70.github.com/Utkarsh_25scs1003002916_IILM-GN/)
+  [![Tech Stack](https://img.shields.io/badge/Tech-Python%20|%20GEE%20|%20Folium-blue?style=for-the-badge)](https://github.com/utk70/Utkarsh_25scs1003002916_IILM-GN)
   
   <br/>
   
