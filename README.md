@@ -81,7 +81,7 @@ We used a weighted percentile ranking system to calculate the final priority sco
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/utk70/ncr-green-roof-ai.git](https://github.com/utk70/ncr-green-roof-ai.git)
+    git clone https://github.com/utk70/Utkarsh_25scs1003002916_IILM-GN.git
     ```
 2.  **Open the Dashboard:**
     * Navigate to the folder and open `index.html` in your browser.
